@@ -6,4 +6,4 @@ This repository collects my own LaTex source files and PDFs that could be useful
 
   **Dir**: ./FiniteStateAutomata/  
   
-  **PDF**: ![image](https://github.com/weiyx15/LaTex_templates/blob/master/FiniteStateAutomata/StateMachineForICCV.pdf)
+  **PDF**: ![image](https://github.com/weiyx15/LaTex_templates/blob/master/FiniteStateAutomata/StateMachineForICCV.png?raw=true)
