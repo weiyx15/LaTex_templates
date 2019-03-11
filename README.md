@@ -4,4 +4,6 @@ This repository collects my own LaTex source files and PDFs that could be useful
 
 - Drawing Finite State Automata
 
-  ./FiniteStateAutomata
+  **Dir**: ./FiniteStateAutomata/  
+  
+  **PDF**: ![image](https://github.com/weiyx15/LaTex_templates/blob/master/FiniteStateAutomata/StateMachineForICCV.pdf)
